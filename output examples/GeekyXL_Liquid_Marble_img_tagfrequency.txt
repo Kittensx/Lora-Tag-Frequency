@@ -1,0 +1,12 @@
+Tag Frequency v1.0
+
+Possible Activation Text/Name of Dataset: img
+
+High Frequency Tags (>= 75%):
+no humans, water
+
+Medium Frequency Tags (40-75%):
+liquid marble, animal focus, animal
+
+Low Frequency Tags (< 40%):
+solo, black background, reflection, blurry, fish, still life, open mouth, flower, black eyes, underwater, looking at viewer, full body, rock, pokemon (creature), tree, realistic, scenery, teeth, leaf, bird, blue eyes, simple background, cloud, sky, outdoors, whiskers, white flower, jellyfish, artist name, sharp teeth, branch, night, nature, shell, ice, brown eyes, tentacles, fangs, lotus, lily pad, purple flower, cave, bare tree, cloudy sky, depth of field, standing, dog, from side, light rays, air bubble, colored sclera, 1boy, facial hair, orange eyes, snake, scales, slit pupils, claws, closed mouth, mushroom, partially submerged, tiger, night sky, signature, male focus, purple theme, cherry blossoms, tentacle hair, shark, whale, caustics, goldfish, bubble, turtle, talons, yellow eyes, star (sky), cat, duck, egg, food, bear, beard, smoke, wings, penguin, deer, antlers, mouse, red flower, rose, plant, lily (flower), pink flower, wisteria, shiny, forest, autumn leaves, fantasy, fruit, cherry, food focus, apple, starfish, seashell, waves, octopus, suction cups, blue theme, watermark, coral, sunlight, frog, wet, panda, ripples, year of the tiger, smile, muscular, collar, tongue, looking up, red eyes, beak, formal, necktie, suit, black necktie, 1girl, red lips, red hair, long hair, makeup, lipstick, window, starry sky, skull, skeleton, moon, full moon, yellow flower, flying, pillar, sitting, monkey, crystal, shirt, jacket, upper body, chinese zodiac, polar bear, feathers, wading, dress, closed eyes, sun

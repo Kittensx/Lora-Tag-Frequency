@@ -1,0 +1,12 @@
+Tag Frequency v1.0
+
+Possible Activation Text/Name of Dataset: 50_distance1
+
+High Frequency Tags (>= 75%):
+chibi, 1girl, yellow hair, orange eyes, looking at viewer, full body, jacket, white background, hands in pockets, simple background
+
+Medium Frequency Tags (40-75%):
+
+
+Low Frequency Tags (< 40%):
+
