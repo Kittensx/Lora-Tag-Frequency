@@ -49,11 +49,11 @@ The config.yaml file allows you to:
 This project is licensed under the MIT License.
 
 ## Author
-Kittensx
-Email: kittensx.github@gmail.com
-GitHub: [Kittensx](https://github.com/Kittensx/Lora-Tag-Frequency)
-Find me on CivitAi:https://civitai.com/user/KittensX
-Buy me a coffee :)  https://ko-fi.com/kittensx
+###     Kittensx
+###     Email: kittensx.github@gmail.com
+###     GitHub: [Kittensx](https://github.com/Kittensx/Lora-Tag-Frequency)
+###     Find me on CivitAi:https://civitai.com/user/KittensX
+###     Buy me a coffee :)  https://ko-fi.com/kittensx
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
