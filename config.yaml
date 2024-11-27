@@ -1,0 +1,18 @@
+directories_to_scan:
+  - "Z:/stable-diffusion-webui/models/Lora" #find your directories and include them here. Add as many as needed.
+log_file: "logs/metadata_scan_log.txt" 
+error_log: "logs/errors_log.txt"
+structured_data_file: "data/metadata.json"
+export_metadata: true  # Enable or disable the metadata export functionality
+output_format: "yaml"  # Choose between "yaml" or "json"
+output_file: "exports/metadata_export.yaml"  # Path to the export file
+file_extensions:  # File types to scan
+  - ".pt"
+  - ".pth"
+  - ".safetensors"
+tag_frequency_levels:
+  high: 75
+  medium: 40
+  low: 10
+  top10: 90
+batch_time: 10  # in seconds ~ it monitors your folders. Delay by X seconds before it runs a batch of all new files.
