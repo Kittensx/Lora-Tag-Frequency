@@ -47,7 +47,7 @@ GitHub: Kittensx
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
-4. ** LICENSE**
+** LICENSE**
 Copyright (c) 2024 Kittensx
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
