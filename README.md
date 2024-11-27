@@ -5,7 +5,7 @@ This repository is meant to run in the background and monitors files. You can al
 
 This is a placeholder readme while I work out functionality, and is meant to work like a coming soon.
 
-Without  the tagfreq_class.py file this repository will not work.
+Without  the loratagfreq.py file this repository will not work.
 
 # Metadata Exporter and Scanner
 
@@ -20,7 +20,7 @@ This Python script is designed to scan specified directories for metadata in var
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/metadata-exporter.git
+   git clone https://github.com/kittensx/metadata-exporter.git
    cd metadata-exporter
    ```
 2. Install dependencies:
@@ -34,7 +34,7 @@ This Python script is designed to scan specified directories for metadata in var
 To run the script:
 
    ```
-   python tagfreq_class.py
+   python loratagfreq.py
    ```
 
 ## Configuration
@@ -50,8 +50,10 @@ This project is licensed under the MIT License.
 
 ## Author
 Kittensx
-Email: your.email@example.com
-GitHub: Kittensx
+Email: kittensx.github@gmail.com
+GitHub: [Kittensx](https://github.com/Kittensx/Lora-Tag-Frequency)
+Find me on CivitAi:https://civitai.com/user/KittensX
+Buy me a coffee :)  https://ko-fi.com/kittensx
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
