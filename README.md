@@ -4,12 +4,14 @@ This Python script is designed to scan specified directories for metadata in var
 # NOTES!!!
 1) This is a Version 1 file. Not all features have been implemented. In particular, watchdog functionality / monitoring folders for new files is not implemented.
 2) This file works but the path is hardcoded for the folder. Change Line 166 "directories_to_scan" to the directory you wish to monitor.
+3) 
 
 ## Features
-- Scans `.pt`, `.pth`, `.safetensors`, and user-defined file types.
-- Exports metadata to JSON/YAML and CSV formats.
-- Monitors directories for new files and processes them in real-time.
-- Keeps a detailed structured database of scanned files.
+- Scans `.pt`, `.pth`, `.safetensors`,
+## Feature will be included with Version 2 - and user-defined file types.
+## Feature will be included with Version 2 - Exports metadata to JSON/YAML and CSV formats.
+## Feature will be included with Version 2 - Monitors directories for new files and processes them in real-time.
+## Feature will be included with Version 2 - Keeps a detailed structured database of scanned files.
 
 ## Installation
 1. Clone the repository:
@@ -32,7 +34,7 @@ To run the script:
    ```
 
 ## Configuration
-The config.yaml file allows you to:
+## Feature will be included with Version 2 - The config.yaml file allows you to:
 
 ### Specify directories to scan.
 ### Enable or disable metadata export.
