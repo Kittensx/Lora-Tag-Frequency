@@ -186,5 +186,3 @@ if __name__ == "__main__":
         observer.stop()
 
     observer.join()
-    if self.error_count >0:
-        print(f"Errors were detected during program execution. Please refer to the {error_log} for details.")
