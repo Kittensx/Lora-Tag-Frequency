@@ -4,7 +4,7 @@ This Python script is designed to scan specified directories for metadata in var
 # NOTES!!!
 1) This is a Version 1 file. Not all features have been implemented. In particular, watchdog functionality / monitoring folders for new files is not implemented.
 2) This file works but the path is hardcoded for the folder. Change Line 166 "directories_to_scan" to the directory you wish to monitor.
-3) 
+
 
 ## Features
 - Scans `.pt`, `.pth`, `.safetensors`,
