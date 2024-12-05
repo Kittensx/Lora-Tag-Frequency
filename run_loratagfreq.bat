@@ -5,7 +5,7 @@ REM Set the Python executable path if necessary
 set PYTHON_EXEC=python
 
 REM Set the script location
-set SCRIPT_PATH="%~dp0loratagfreq.py"
+set SCRIPT_PATH="%~dp0tagfreq_class.py"
 
 REM Run the Python script
 %PYTHON_EXEC% %SCRIPT_PATH%
