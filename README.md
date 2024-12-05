@@ -1,6 +1,10 @@
 # Lora-Tag-Frequency
 This Python script is designed to scan specified directories for metadata in various file types and export it in both JSON/YAML and CSV formats. It also supports monitoring directories for new files and keeping a structured database of scanned files.
 
+# NOTES!!!
+1) This is a Version 1 file. Not all features have been implemented. In particular, watchdog functionality / monitoring folders for new files is not implemented.
+2) This file works but the path is hardcoded for the folder. Change Line 166 "directories_to_scan" to the directory you wish to monitor.
+
 ## Features
 - Scans `.pt`, `.pth`, `.safetensors`, and user-defined file types.
 - Exports metadata to JSON/YAML and CSV formats.
