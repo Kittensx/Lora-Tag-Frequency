@@ -8,10 +8,15 @@ This Python script is designed to scan specified directories for metadata in var
 
 ## Features
 - Scans `.pt`, `.pth`, `.safetensors`,
-## Feature will be included with Version 2 - and user-defined file types.
-## Feature will be included with Version 2 - Exports metadata to JSON/YAML and CSV formats.
-## Feature will be included with Version 2 - Monitors directories for new files and processes them in real-time.
-## Feature will be included with Version 2 - Keeps a detailed structured database of scanned files.
+
+## Version 2 Features
+### Set user-defined file types.
+### Exports metadata to JSON/YAML and CSV formats.
+### Monitors directories for new files and processes them in real-time.
+### Keeps a detailed structured database of scanned files.
+### Set language for output
+### Use a config file or command line parse arguments
+
 
 ## Installation
 1. Clone the repository:
@@ -30,7 +35,7 @@ This Python script is designed to scan specified directories for metadata in var
 To run the script:
 
    ```
-   python loratagfreq.py
+   python tagfreq_class.py
    ```
 
 ## Configuration
